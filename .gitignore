@@ -29,3 +29,9 @@
 
 # Ignore master key for decrypting credentials and more.
 /config/master.key
+
+# Extra files to ignore
+doc/
+*.swp
+*~
+.DS_Store
